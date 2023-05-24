@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Soy Gabriel, Desarrollador full Stack desde marzo del 2022 🚀</div>  
+### <div align="center">Soy Gabriel, Desarrollador full Stack 🚀</div>  
   
 
 - 🔭 Actualmente estoy trabajando de forma independiente en Desarrollo web.  
