@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div text-align="center">
+### <div justify-content ="center">
   <h1>Hola soy Gabriel 🙋</h1>
 </div>  
   
