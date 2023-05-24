@@ -6,14 +6,16 @@
 ### <div align="center">Hola soy Gabriel 🙋🏽‍♂️</div>  
   
 
-"👨‍💻 Desarrollador web Full Stack Junior con una sólida experiencia en el desarrollo de aplicaciones utilizando tecnologías como JavaScript, Java, React, Redux, Node.js, PostgreSQL, Sequelize, Express, HTML, MongoDB, CSS, Bootstrap y Tailwind. Apasionado por la creación de soluciones innovadoras y funcionales, y comprometido con la excelencia técnica. A lo largo de mi trayectoria, he participado en proyectos desafiantes, incluyendo una aplicación de ecommerce altamente escalable y aplicaciones Full Stack como 'Countries' y 'Rick and Morty'.
+👨‍💻<b>Desarrollador web Full Stack Junior</b> con una sólida experiencia en el desarrollo de aplicaciones utilizando tecnologías de vanguardia como JavaScript, Java, React, Redux, Node.js, PostgreSQL, Sequelize, Express, HTML, MongoDB, CSS, Bootstrap y Tailwind. Apasionado por la creación de soluciones innovadoras y funcionales que impulsen el éxito empresarial. A lo largo de mi trayectoria, he contribuido al desarrollo de una aplicación de ecommerce altamente escalable y he participado en emocionantes proyectos Full Stack como 'Countries' y 'Rick and Morty'.
 
 <h2>🎯 Mi objetivo principal</h2>
- Es convertirme en un desarrollador Senior, y para lograrlo, me mantengo constantemente actualizado en las últimas tendencias y mejores prácticas del desarrollo web. Tengo una mentalidad orientada a la resolución de problemas y una actitud de aprendizaje continuo. Busco un entorno dinámico que fomente mi crecimiento profesional, donde pueda trabajar junto a profesionales experimentados para adquirir nuevas habilidades y desafiar mis capacidades.
+ Es convertirme en un <b>desarrollador Senior</b> reconocido, capaz de liderar proyectos desafiantes y mentorar a otros profesionales en el camino. Para lograrlo, mantengo un enfoque constante en la mejora de mis habilidades y conocimientos. Siempre estoy atento a las últimas tendencias y prácticas del desarrollo web, y me esfuerzo por aplicarlas de manera efectiva para obtener resultados sobresalientes.
 
-💡 Estoy emocionado por enfrentar nuevos retos que me permitan ampliar mi conocimiento y experiencia en el desarrollo web. Mi pasión y dedicación me impulsan a alcanzar nuevos niveles de excelencia y contribuir al éxito de los proyectos en los que participe. Siendo un entusiasta del desarrollo web Full Stack, estoy listo para asumir mayores responsabilidades y contribuir al crecimiento de la empresa como desarrollador Senior.
+💡 Me destaco por mi pasión por la resolución de problemas complejos y mi capacidad para adaptarme rápidamente a nuevos entornos y tecnologías. Mi enfoque orientado al detalle, combinado con una visión creativa, me permite diseñar soluciones elegantes y eficientes. Además, mi habilidad para colaborar en equipos multidisciplinarios garantiza una comunicación fluida y resultados exitosos.
 
-🚀 ¡Estoy listo para llevar mi carrera al siguiente nivel! 🌟"
+🚀 Estoy emocionado por formar parte de un equipo dinámico y orientado al crecimiento, donde pueda aportar mi experiencia y seguir expandiendo mis habilidades. Mi objetivo es contribuir al éxito de la empresa y enfrentar desafíos estimulantes que me permitan seguir evolucionando como profesional.
+
+✨ Si buscas un desarrollador web Full Stack con pasión, energía y un compromiso inquebrantable con la excelencia, ¡estoy listo para unirme a tu equipo y llevar tu empresa al siguiente nivel tecnológico!" 🌟
 
 <br/>  
 
