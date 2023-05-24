@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center">Hola soy Gabriel 🙋🏽‍♂️</div>  
+### <div align="center">
+  <h1>Hola soy Gabriel 🙋</h1>
+  🏽‍♂️</div>  
   
 
 👨‍💻<b>Desarrollador web Full Stack Junior</b> con una sólida experiencia en el desarrollo de aplicaciones utilizando tecnologías de vanguardia como JavaScript, Java, React, Redux, Node.js, PostgreSQL, Sequelize, Express, HTML, MongoDB, CSS, Bootstrap y Tailwind. Apasionado por la creación de soluciones innovadoras y funcionales que impulsen el éxito empresarial. A lo largo de mi trayectoria, he contribuido al desarrollo de una aplicación de ecommerce altamente escalable y he participado en emocionantes proyectos Full Stack como 'Countries' y 'Rick and Morty'.
