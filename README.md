@@ -3,17 +3,17 @@
 </div>  
   
 
-### <div align="center">Soy Gabriel, Desarrollador full Stack 🚀</div>  
+### <div align="center">Hola soy Gabriel 🙋🏽‍♂️</div>  
   
 
-- 🔭 Actualmente estoy trabajando de forma independiente en Desarrollo web.  
-  
+"👨‍💻 Desarrollador web Full Stack Junior con una sólida experiencia en el desarrollo de aplicaciones utilizando tecnologías como JavaScript, Java, React, Redux, Node.js, PostgreSQL, Sequelize, Express, HTML, MongoDB, CSS, Bootstrap y Tailwind. Apasionado por la creación de soluciones innovadoras y funcionales, y comprometido con la excelencia técnica. A lo largo de mi trayectoria, he participado en proyectos desafiantes, incluyendo una aplicación de ecommerce altamente escalable y aplicaciones Full Stack como 'Countries' y 'Rick and Morty'.
 
-- 🌱 Actualmente sigo mi desarrollo profesional perfeccionándome en los diferentes lenguajes de programación como Kotlin y Flutter😍  
-  
+<h2>🎯 Mi objetivo principal</h2>
+ Es convertirme en un desarrollador Senior, y para lograrlo, me mantengo constantemente actualizado en las últimas tendencias y mejores prácticas del desarrollo web. Tengo una mentalidad orientada a la resolución de problemas y una actitud de aprendizaje continuo. Busco un entorno dinámico que fomente mi crecimiento profesional, donde pueda trabajar junto a profesionales experimentados para adquirir nuevas habilidades y desafiar mis capacidades.
 
-- ❓ Pregúntame sobre cualquier cosa de MERN stack y tecnologías relacionadas👨‍💻  
-  
+💡 Estoy emocionado por enfrentar nuevos retos que me permitan ampliar mi conocimiento y experiencia en el desarrollo web. Mi pasión y dedicación me impulsan a alcanzar nuevos niveles de excelencia y contribuir al éxito de los proyectos en los que participe. Siendo un entusiasta del desarrollo web Full Stack, estoy listo para asumir mayores responsabilidades y contribuir al crecimiento de la empresa como desarrollador Senior.
+
+🚀 ¡Estoy listo para llevar mi carrera al siguiente nivel! 🌟"
 
 <br/>  
 
