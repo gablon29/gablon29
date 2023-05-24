@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">
+### <div text-align="center">
   <h1>Hola soy Gabriel 🙋</h1>
 </div>  
   
