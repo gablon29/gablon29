@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div display='flex'  justify-content ="center">
+### <div display='flex' witch ='100%' justify-content ="center" >
   <h1>Hola soy Gabriel 🙋</h1>
 </div>  
   
