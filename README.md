@@ -1,15 +1,15 @@
 ### <div align="center">I'm Cesar Gabriel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 👨‍💻Desarrollador web Full Stack Junior con una sólida experiencia en el desarrollo de aplicaciones utilizando tecnologías de vanguardia como JavaScript, Java, React, Redux, Node.js, PostgreSQL, Sequelize, Express, HTML, MongoDB, CSS, Bootstrap y Tailwind. Apasionado por la creación de soluciones innovadoras y funcionales que impulsen el éxito empresarial. A lo largo de mi trayectoria, he contribuido al desarrollo de una aplicación de ecommerce altamente escalable y he participado en emocionantes proyectos Full Stack como 'Countries' y 'Rick and Morty'.
+👨‍💻Full Stack Junior web developer with solid experience developing applications using cutting edge technologies such as JavaScript, Java, React, Redux, Node.js, PostgreSQL, Sequelize, Express, HTML, MongoDB, CSS, Bootstrap and Tailwind. Passionate about creating innovative and functional solutions that drive business success. Throughout my career, I have contributed to the development of a highly scalable ecommerce application and have been involved in exciting Full Stack projects such as 'Countries' and 'Rick and Morty'.
 
-🎯 Mi objetivo principal
-Es convertirme en un desarrollador Senior reconocido, capaz de liderar proyectos desafiantes y mentorar a otros profesionales en el camino. Para lograrlo, mantengo un enfoque constante en la mejora de mis habilidades y conocimientos. Siempre estoy atento a las últimas tendencias y prácticas del desarrollo web, y me esfuerzo por aplicarlas de manera efectiva para obtener resultados sobresalientes.
-💡 Me destaco por mi pasión por la resolución de problemas complejos y mi capacidad para adaptarme rápidamente a nuevos entornos y tecnologías. Mi enfoque orientado al detalle, combinado con una visión creativa, me permite diseñar soluciones elegantes y eficientes. Además, mi habilidad para colaborar en equipos multidisciplinarios garantiza una comunicación fluida y resultados exitosos.
+🎯 My main goal
+It is to become a recognized Senior developer, capable of leading challenging projects and mentoring other professionals along the way. To achieve this, I maintain a constant focus on improving my skills and knowledge. I am always aware of the latest web development trends and practices, and strive to apply them effectively for outstanding results.
+💡 I stand out for my passion for solving complex problems and my ability to quickly adapt to new environments and technologies. My detail-oriented approach, combined with a creative vision, allows me to design elegant and efficient solutions. In addition, my ability to collaborate in multidisciplinary teams guarantees fluid communication and successful results.
 
-🚀 Estoy emocionado por formar parte de un equipo dinámico y orientado al crecimiento, donde pueda aportar mi experiencia y seguir expandiendo mis habilidades. Mi objetivo es contribuir al éxito de la empresa y enfrentar desafíos estimulantes que me permitan seguir evolucionando como profesional.
+🚀 I am excited to be part of a dynamic and growth-oriented team, where I can contribute my experience and continue to expand my skills. My goal is to contribute to the success of the company and face stimulating challenges that allow me to continue evolving as a professional.
 
-✨ Si buscas un desarrollador web Full Stack con pasión, energía y un compromiso inquebrantable con la excelencia, ¡estoy listo para unirme a tu equipo y llevar tu empresa al siguiente nivel tecnológico!"   
+✨ If you are looking for a Full Stack web developer with passion, energy and an unwavering commitment to excellence, I am ready to join your team and take your company to the next technological level!"   
   
 
 <br/>  
