@@ -1,4 +1,5 @@
-### <div align="center">I'm Cesar Gabriel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center"><h1>I'm Cesar Gabriel</h1>
+<h6>a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</h6></div>  
   
 
 👨‍💻Full Stack Junior web developer with solid experience developing applications using cutting edge technologies such as JavaScript, Java, React, Redux, Node.js, PostgreSQL, Sequelize, Express, HTML, MongoDB, CSS, Bootstrap and Tailwind. Passionate about creating innovative and functional solutions that drive business success. Throughout my career, I have contributed to the development of a highly scalable ecommerce application and have been involved in exciting Full Stack projects such as 'Countries' and 'Rick and Morty'.
