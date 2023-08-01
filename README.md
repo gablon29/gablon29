@@ -60,11 +60,9 @@ It is to become a recognized Senior developer, capable of leading challenging pr
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
@@ -88,23 +86,6 @@ It is to become a recognized Senior developer, capable of leading challenging pr
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gablon29&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
 
 <br/>  
 
