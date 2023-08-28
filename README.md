@@ -1,5 +1,6 @@
 ### <div align="center"><h1>I'm Cesar Gabriel</h1></div> 
-  <h2>I am full stack Developer javaScript/typeScript and Java<h2>
+  <h2>I am full stack Developer java and javaScript/typeScript<h2>
+  <h2>I work developing web and mobile applications 📲🖥</h2>
 
   
   
