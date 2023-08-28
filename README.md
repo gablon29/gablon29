@@ -1,16 +1,7 @@
-### <div align="center"><h1>I'm Cesar Gabriel</h1>
-<h6>a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</h6></div>  
+### <div align="center"><h1>I'm Cesar Gabriel</h1></div> 
+  <h2>I am full stack Developer javaScript/typeScript and Java<h2>
+
   
-
-👨‍💻Full Stack Junior web developer with solid experience developing applications using cutting edge technologies such as JavaScript, Java, React, Redux, Node.js, PostgreSQL, Sequelize, Express, HTML, MongoDB, CSS, Bootstrap and Tailwind. Passionate about creating innovative and functional solutions that drive business success. Throughout my career, I have contributed to the development of a highly scalable ecommerce application and have been involved in exciting Full Stack projects such as 'Countries' and 'Rick and Morty'.
-
-🎯 My main goal
-It is to become a recognized Senior developer, capable of leading challenging projects and mentoring other professionals along the way. To achieve this, I maintain a constant focus on improving my skills and knowledge. I am always aware of the latest web development trends and practices, and strive to apply them effectively for outstanding results.
-💡 I stand out for my passion for solving complex problems and my ability to quickly adapt to new environments and technologies. My detail-oriented approach, combined with a creative vision, allows me to design elegant and efficient solutions. In addition, my ability to collaborate in multidisciplinary teams guarantees fluid communication and successful results.
-
-🚀 I am excited to be part of a dynamic and growth-oriented team, where I can contribute my experience and continue to expand my skills. My goal is to contribute to the success of the company and face stimulating challenges that allow me to continue evolving as a professional.
-
-✨ If you are looking for a Full Stack web developer with passion, energy and an unwavering commitment to excellence, I am ready to join your team and take your company to the next technological level!"   
   
 
 <br/>  
