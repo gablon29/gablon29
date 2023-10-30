@@ -2,7 +2,7 @@
   <h2>I am full stack Developer java and javaScript/typeScript<h2>
   <h2>I work developing web and mobile applications 📲🖥</h2>
   <h2>Contact me!</h2>
-    <div align="center" display="flex">
+    <div display="flex">
   <div>
     <ul>
       <li>
