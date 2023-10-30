@@ -6,6 +6,9 @@
     <div display="flex" flex-direction="row" justify-content="space-between">
     <img src="https://qr-codes-svg-wapp.s3.amazonaws.com/vF9SUa.svg?1698657742261" alt="enlace whatssap" height="100"/>
     </div>
+    <div>
+      <h3>cesarlonderodev@gmail.com</h3>
+    </div>
   
   
 
