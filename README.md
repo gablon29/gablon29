@@ -6,8 +6,8 @@
     <div display="flex" flex-direction="row" justify-content="space-between">
     <img src="https://qr-codes-svg-wapp.s3.amazonaws.com/vF9SUa.svg?1698657742261" alt="enlace whatssap" height="100"/>
     </div>
-    <div>
-      <img src="https://media.canva.com/1/image-resize/1/550_414_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS93LWRJTS9NQUZ5dVl3LWRJTS8xL3Auc3Zn?osig=AAAAAAAAAAAAAAAAAAAAAHYStau78-pzcgRrJRukXzOBWwbdwqYBzzPcY67VrXRh&exp=1698704120&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAALCQ9r9fnL7z-5A5y0HlMIbo2FPOw6Pgs035icgp1qb7" height="100"/>
+    <div display="flex">
+      <img src="https://media.canva.com/1/image-resize/1/550_414_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS93LWRJTS9NQUZ5dVl3LWRJTS8xL3Auc3Zn?osig=AAAAAAAAAAAAAAAAAAAAAHYStau78-pzcgRrJRukXzOBWwbdwqYBzzPcY67VrXRh&exp=1698704120&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAALCQ9r9fnL7z-5A5y0HlMIbo2FPOw6Pgs035icgp1qb7" height="50"/>
       <h3>cesarlonderodev@gmail.com</h3>
     </div>
   
