@@ -4,11 +4,8 @@
   <h2>Contact me!</h2>
     <div display="flex" flex-direction="row">
   <div>
-   
-  <img src="https://media.canva.com/1/image-resize/1/550_127_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS81LUJyVS9NQUZ5dVQ1LUJyVS8xL3Auc3Zn?osig=AAAAAAAAAAAAAAAAAAAAAEuEG4Ap9uEvm1FsMNalRZ2FSr2rC7mt-J__MOv1_v1l&exp=1698675487&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAAGVHpUbwIG2GAjyI5ny86-cPmulZ8Xxkvi3tKjK5vFI8" height="50"/>
-       
-  <img src="https://qr-codes-svg-wapp.s3.amazonaws.com/vF9SUa.svg?1698657742261" alt="enlace whatssap" height="100"/>
-       
+   <img src="https://media.canva.com/1/image-resize/1/550_127_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS81LUJyVS9NQUZ5dVQ1LUJyVS8xL3Auc3Zn?osig=AAAAAAAAAAAAAAAAAAAAAEuEG4Ap9uEvm1FsMNalRZ2FSr2rC7mt-J__MOv1_v1l&exp=1698675487&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAAGVHpUbwIG2GAjyI5ny86-cPmulZ8Xxkvi3tKjK5vFI8" height="50"/>
+    <img src="https://qr-codes-svg-wapp.s3.amazonaws.com/vF9SUa.svg?1698657742261" alt="enlace whatssap" height="100"/>
   </div>
       <div>
         <img src="https://media.canva.com/1/image-resize/1/550_414_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS93LWRJTS9NQUZ5dVl3LWRJTS8xL3Auc3Zn?osig=AAAAAAAAAAAAAAAAAAAAADz4SG4Nnih18t9RMEpkf68F7bEZJx3ZZqP8wQIgVqfk&exp=1698675320&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAAMkDVcWyRkk_Bb2DFFvS1OtHsiEQxQeYRg6VQk-SvyKO" height="100"/>
