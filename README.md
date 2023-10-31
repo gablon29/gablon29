@@ -8,7 +8,7 @@
     </div>
     <div>
       <h2>Tambien puedes mandarme un Correo 📧📧📨</h2>
-      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"><h3>cesarlonderodev@gmail.com</h3></a>
+      <h3><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">cesarlonderodev@gmail.com</a></h3>
     </div>
   
   
