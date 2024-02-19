@@ -8,7 +8,7 @@
     </div>
     <div>
       <h2>Tambien puedes mandarme un Correo 📧📧📨</h2>
-      <h3><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">cesarlonderodev@gmail.com</a></h3>
+      <h3><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">cersarlonderodev@gmail.com</a></h3>
     </div>
   
   
@@ -22,7 +22,7 @@
 
 
 ### Frontend  
-<div align="center">  
+<div align="center" background-color='balck'>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
