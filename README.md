@@ -27,7 +27,16 @@ Soy un desarrollador apasionado que cree en la creación de soluciones eficiente
     El manejo de errores está estandarizado mediante una clase personalizada (`AppError`), que asegura la captura y gestión de problemas.
   - **Tecnologías**: Node.js, Express, JWT, Moment.js, entre otras.
 
-- **[Nombre del Proyecto 2](link)**: Breve descripción.
+- **[E-commerce de Insumos Informáticos](https://github.com/gablon29/PerisferiaStore)**:
+
+  Este proyecto es una plataforma de E-commerce diseñada para ofrecer una experiencia intuitiva y eficiente a los usuarios que desean comprar insumos informáticos. La aplicación fue desarrollada en colaboración con un equipo de desarrolladores, utilizando un stack tecnológico moderno que asegura un rendimiento óptimo, seguridad y escalabilidad.
+
+  **Características principales**:
+  - **Catálogo de productos**: Navegación y filtrado de productos con descripciones detalladas.
+  - **Carrito de compras**: Sistema de carrito con gestión de cantidades y transacciones seguras.
+  - **Gestión de pedidos**: Seguimiento desde la compra hasta la entrega, con notificaciones en tiempo real.
+  - **Panel de administración**: Gestión de productos, inventario y estadísticas de ventas.
+  - **Tecnologías**: Node.js, Express, Supabase, React, Redux, Tailwind, Auth0.
 
 ### 📞 Conectemos
 - [LinkedIn](https://www.linkedin.com/in/gabriel-londero-344734233)
