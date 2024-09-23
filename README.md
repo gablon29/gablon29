@@ -13,7 +13,20 @@ Soy un desarrollador apasionado que cree en la creación de soluciones eficiente
 - MongoDB, MySQL, PostgreSQL
 
 ### 🚀 Proyectos Destacados
-- **[Nombre del Proyecto 1](link)**: Breve descripción.
+
+- **Sistema de Gestión de Entrenamientos de Natación**: 
+
+  Este proyecto está diseñado para gestionar la asistencia y el desarrollo de entrenamientos de natación, enfocándose tanto en la gestión de los usuarios como en el registro de las asistencias de los participantes a las sesiones de entrenamiento.
+
+  **Funcionalidades principales**:
+  - **Gestión de Usuarios**:
+    El sistema incluye funcionalidades para la creación, actualización y obtención de información de los usuarios, que incluye tanto entrenadores como nadadores. El manejo de usuarios está centralizado en servicios dedicados (`UserServices`), y se emplea autenticación basada en JWT.
+  - **Registro de Asistencias**:
+    El sistema permite crear registros de asistencia de los nadadores en función de la fecha y el ID de usuario, y las asistencias se pueden consultar por fecha o en conjunto.
+  - **Manejo de Errores**:
+    El manejo de errores está estandarizado mediante una clase personalizada (`AppError`), que asegura la captura y gestión de problemas.
+  - **Tecnologías**: Node.js, Express, JWT, Moment.js, entre otras.
+
 - **[Nombre del Proyecto 2](link)**: Breve descripción.
 
 ### 📞 Conectemos
