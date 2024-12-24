@@ -39,7 +39,7 @@ Soy un desarrollador apasionado que cree en la creación de soluciones eficiente
   - **Tecnologías**: Node.js, Express, Supabase, React, Redux, Tailwind, Auth0.
 
 ### 📞 Conectemos
-- [LinkedIn](linkedin.com/in/cesar-londero-344734233)
+- [LinkedIn](https://linkedin.com/in/cesar-londero-344734233)
 - [GitHub](https://github.com/gablon29)
 - [Instagram](https://instagram.com/cesardev29)
 - [Twitter](https://twitter.com/GabrielLondero)
