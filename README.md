@@ -19,11 +19,5 @@ Soy un **Desarrollador Full Stack** apasionado por la creación de soluciones te
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB.  
 - **Herramientas y DevOps:** Git, Docker, AWS, Vite.  
 
-## 📫 Conéctate conmigo  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-londero-344734233)  
-- 🖥️ [Portafolio en GitHub](https://github.com/gablon29)  
-- 🐦 [Twitter](https://twitter.com/GabrielLondero)  
-- 📷 [Instagram](https://instagram.com/cesardev29)  
-
 ¡Gracias por visitar mi perfil! Si tienes un proyecto emocionante o una idea innovadora, no dudes en contactarme. 🚀  
 
