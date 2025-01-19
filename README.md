@@ -1,47 +1,29 @@
-### 🌟 César Gabriel
-Desarrollador Full Stack | Java & TypeScript | Apasionado por la Ciencia de Datos
+# 👋 ¡Hola, soy César Gabriel Londero!  
 
-Soy un desarrollador apasionado que cree en la creación de soluciones eficientes y elegantes. Me encanta enfrentar desafíos técnicos y aprender nuevas tecnologías para mejorar continuamente mis habilidades.
+Soy un **Desarrollador Full Stack** apasionado por la creación de soluciones tecnológicas que marcan la diferencia. Con una sólida experiencia en **Java**, **TypeScript**, **React**, **Node.js** y otras tecnologías modernas, he trabajado en diversos proyectos que abarcan desde **aplicaciones web y móviles** hasta **e-commerce** y plataformas colaborativas.  
 
-### 💻 Habilidades
-#### Desarrollo Web
-- React, Angular, Next.js
-- HTML5, CSS3, Bootstrap, Tailwind CSS
+## 🚀 Sobre mí  
+- 🌟 **Desarrollo colaborativo:** Me encanta trabajar en equipo y aportar mi experiencia para superar desafíos y construir proyectos exitosos.  
+- 💡 **Innovación constante:** Siempre estoy aprendiendo y explorando nuevas herramientas y tecnologías para mantenerme a la vanguardia, como **NestJS**, **Strapi** y **AWS**.  
+- 🤝 **Contribuciones Open Source:** Actualmente estoy contribuyendo a proyectos open source, reforzando mi compromiso con la comunidad tecnológica.  
+- 🛠️ **Proyectos en marcha:** Desarrollo un servidor con **NestJS** para mejorar mis habilidades en arquitecturas escalables y robustas.  
 
-#### Backend
-- Node.js, Express.js, Java, Python
-- MongoDB, MySQL, PostgreSQL
+## 📂 Proyectos destacados  
+- 🌐 **E-commerce de insumos informáticos:** Plataforma desarrollada con **React**, **Redux**, **Node.js** y **Auth0**, enfocada en una experiencia de usuario fluida y segura.  
+- 📱 **Gestión de turnos y pacientes:** Aplicación web que facilita la administración de historias clínicas y citas médicas, optimizando los procesos de atención al cliente.  
+- 🔧 **Soluciones personalizadas:** Desarrollo de herramientas a medida adaptadas a las necesidades específicas de diferentes sectores.  
 
-### 🚀 Proyectos Destacados
+## 💪 Habilidades  
+- **Frontend:** React, TypeScript, CSS Modules, MUI, TailwindCSS.  
+- **Backend:** Node.js, NestJS, Express, Sequelize, TypeORM.  
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB.  
+- **Herramientas y DevOps:** Git, Docker, AWS, Vite.  
 
-- **[(Api)Sistema de Gestión de Entrenamientos de Natación](https://github.com/gablon29/gestionNatacion)**: 
+## 📫 Conéctate conmigo  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-londero-344734233)  
+- 🖥️ [Portafolio en GitHub](https://github.com/gablon29)  
+- 🐦 [Twitter](https://twitter.com/GabrielLondero)  
+- 📷 [Instagram](https://instagram.com/cesardev29)  
 
-  Este proyecto está diseñado para gestionar la asistencia y el desarrollo de entrenamientos de natación, enfocándose tanto en la gestión de los usuarios como en el registro de las asistencias de los participantes a las sesiones de entrenamiento.
+¡Gracias por visitar mi perfil! Si tienes un proyecto emocionante o una idea innovadora, no dudes en contactarme. 🚀  
 
-  **Funcionalidades principales**:
-  - **Gestión de Usuarios**:
-    El sistema incluye funcionalidades para la creación, actualización y obtención de información de los usuarios, que incluye tanto entrenadores como nadadores. El manejo de usuarios está centralizado en servicios dedicados (`UserServices`), y se emplea autenticación basada en JWT.
-  - **Registro de Asistencias**:
-    El sistema permite crear registros de asistencia de los nadadores en función de la fecha y el ID de usuario, y las asistencias se pueden consultar por fecha o en conjunto.
-  - **Manejo de Errores**:
-    El manejo de errores está estandarizado mediante una clase personalizada (`AppError`), que asegura la captura y gestión de problemas.
-  - **Tecnologías**: Node.js, Express, JWT, Moment.js, entre otras.
-
-- **[E-commerce de Insumos Informáticos](https://github.com/gablon29/PerisferiaStore)**:
-
-  Este proyecto es una plataforma de E-commerce diseñada para ofrecer una experiencia intuitiva y eficiente a los usuarios que desean comprar insumos informáticos. La aplicación fue desarrollada en colaboración con un equipo de desarrolladores, utilizando un stack tecnológico moderno que asegura un rendimiento óptimo, seguridad y escalabilidad.
-
-  **Características principales**:
-  - **Catálogo de productos**: Navegación y filtrado de productos con descripciones detalladas.
-  - **Carrito de compras**: Sistema de carrito con gestión de cantidades y transacciones seguras.
-  - **Gestión de pedidos**: Seguimiento desde la compra hasta la entrega, con notificaciones en tiempo real.
-  - **Panel de administración**: Gestión de productos, inventario y estadísticas de ventas.
-  - **Tecnologías**: Node.js, Express, Supabase, React, Redux, Tailwind, Auth0.
-
-### 📞 Conectemos
-- [LinkedIn](https://linkedin.com/in/cesar-londero-344734233)
-- [GitHub](https://github.com/gablon29)
-- [Instagram](https://instagram.com/cesardev29)
-- [Twitter](https://twitter.com/GabrielLondero)
-
-¡Estoy emocionado de conectar! Si buscas un desarrollador comprometido y con habilidades versátiles, no dudes en contactarme.
