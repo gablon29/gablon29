@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 ## About Me
 
 - 🔭 I’m currently working on
-  [📝 Aplication-server/task: with NestJs, typeScript, TypeOrm y Jwt](https://github.com/gablon29/api_task_crud_nestjs)
-  [💸💲 Aplication-server/E-commerce: Java, SpringBoot](https://github.com/gablon29/ecommerce-springJava)
+  - [📝 Aplication-server/task: with NestJs, typeScript, TypeOrm y Jwt](https://github.com/gablon29/api_task_crud_nestjs)
+  - [💸💲 Aplication-server/E-commerce: Java, SpringBoot](https://github.com/gablon29/ecommerce-springJava)
 - 🌱 I’m currently learning [Your Current Learning Focus]
 - 👯 I’m looking to collaborate on [Your Collaboration Interests]
 - 🤔 I’m looking for help with [Your Help Needs]
