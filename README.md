@@ -1,23 +1,42 @@
-# 👋 ¡Hola, soy César Gabriel Londero!  
+# Hi there, I'm Gabriel 👋
 
-Soy un **Desarrollador Full Stack** apasionado por la creación de soluciones tecnológicas que marcan la diferencia. Con una sólida experiencia en **Java**, **TypeScript**, **React**, **Node.js** y otras tecnologías modernas, he trabajado en diversos proyectos que abarcan desde **aplicaciones web y móviles** hasta **e-commerce** y plataformas colaborativas.  
+Welcome to my GitHub profile! I'm passionate about technology and coding. Here, you'll find a collection of my projects and contributions.
 
-## 🚀 Sobre mí  
-- 🌟 **Desarrollo colaborativo:** Me encanta trabajar en equipo y aportar mi experiencia para superar desafíos y construir proyectos exitosos.  
-- 💡 **Innovación constante:** Siempre estoy aprendiendo y explorando nuevas herramientas y tecnologías para mantenerme a la vanguardia, como **NestJS**, **Strapi** y **AWS**.  
-- 🤝 **Contribuciones Open Source:** Actualmente estoy contribuyendo a proyectos open source, reforzando mi compromiso con la comunidad tecnológica.  
-- 🛠️ **Proyectos en marcha:** Desarrollo un servidor con **NestJS** para mejorar mis habilidades en arquitecturas escalables y robustas.  
+## About Me
 
-## 📂 Proyectos destacados  
-- 🌐 **E-commerce de insumos informáticos:** Plataforma desarrollada con **React**, **Redux**, **Node.js** y **Auth0**, enfocada en una experiencia de usuario fluida y segura.  
+- 🔭 I’m currently working on [Your Current Project]
+- 🌱 I’m currently learning [Your Current Learning Focus]
+- 👯 I’m looking to collaborate on [Your Collaboration Interests]
+- 🤔 I’m looking for help with [Your Help Needs]
+- 💬 Ask me about [Your Expertise Areas]
+- 📫 How to reach me: [Your Contact Information]
+- ⚡ Fun fact: [A Fun Fact About You]
+
+## My GitHub Stats
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gablon29&show_icons=true&theme=radical)
+
+## Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+
+## Featured Projects
+
+- 🌐 [E-commerce de insumos informáticos:](https://perisferia-store.vercel.app/) Plataforma desarrollada con **React**, **Redux**, **Node.js** y **Auth0**, enfocada en una experiencia de usuario fluida y segura.  
 - 📱 **Gestión de turnos y pacientes:** Aplicación web que facilita la administración de historias clínicas y citas médicas, optimizando los procesos de atención al cliente.  
-- 🔧 **Soluciones personalizadas:** Desarrollo de herramientas a medida adaptadas a las necesidades específicas de diferentes sectores.  
+- 🔧 **Soluciones personalizadas:** Desarrollo de herramientas a medida adaptadas a las necesidades específicas de diferentes sectores. 
 
-## 💪 Habilidades  
-- **Frontend:** React, TypeScript, CSS Modules, MUI, TailwindCSS.  
-- **Backend:** Node.js, NestJS, Express, Sequelize, TypeORM.  
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB.  
-- **Herramientas y DevOps:** Git, Docker, AWS, Vite.  
+## Connect with Me
 
-¡Gracias por visitar mi perfil! Si tienes un proyecto emocionante o una idea innovadora, no dudes en contactarme. 🚀  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-twitter-handle)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:your.email@example.com)
+
+Thanks for visiting my profile!
 
