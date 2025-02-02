@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 - 🔭 I’m currently working on
   - [📝 Aplication-server/task: with NestJs, typeScript, TypeOrm y Jwt](https://github.com/gablon29/api_task_crud_nestjs)
   - [💸💲 Aplication-server/E-commerce: Java, SpringBoot](https://github.com/gablon29/ecommerce-springJava)
-- 🌱 I’m currently learning [C# with .Net]
-- 👯 I’m looking to collaborate on [👯 I’m looking to collaborate on backend development, focusing on security, scalability, and robust API design. I also enjoy working on full stack projects to keep a comprehensive approach!]
+- 🌱 I’m currently learning C# with .Net
+- 👯 I’m looking to collaborate on 👯 I’m looking to collaborate on backend development, focusing on security, scalability, and robust API design. I also enjoy working on full stack projects to keep a comprehensive approach!
 - 🤔 I’m looking for help with Advanced backend architectures, security best practices, and large-scale application optimization.
 - 💬 Ask me about Backend development with Node.js & TypeScript, database management with Sequelize & TypeORM, authentication & security, and API design.
 - 📫 How to reach me:
