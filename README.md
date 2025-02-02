@@ -28,10 +28,10 @@ I started programming in Pascal, but now I love working with modern tech stacks!
 ![Typescript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-000?logo=openjdk)
 ![C#](https://img.shields.io/badge/-C%23-239120?&logo=CSharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express&logoColor=white)
 ![Nest.Js](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
 ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-000?logo=springboot)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -39,7 +39,7 @@ I started programming in Pascal, but now I love working with modern tech stacks!
 ![Trello](https://img.shields.io/badge/-Trello-000?logo=trello)
 ![Slack](https://img.shields.io/badge/-Slack-000?logo=slack)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion&logoColor=white)
 
 ## Featured Projects
 
