@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 - 🤔 I’m looking for help with Advanced backend architectures, security best practices, and large-scale application optimization.
 - 💬 Ask me about Backend development with Node.js & TypeScript, database management with Sequelize & TypeORM, authentication & security, and API design.
 - 📫 How to reach me:
-  - ![GitHub](https://github.com/gablon29)
-  - ![LinkedIn](https://www.linkedin.com/in/cesar-londero-344734233)
+  - [GitHub](https://github.com/gablon29)
+  - [LinkedIn](https://www.linkedin.com/in/cesar-londero-344734233)
 - ⚡ Fun fact:
 I started programming in Pascal, but now I love working with modern tech stacks! Also, I’m passionate about system analysis and how technology improves healthcare.
 
