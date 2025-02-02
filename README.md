@@ -49,9 +49,8 @@ I started programming in Pascal, but now I love working with modern tech stacks!
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/cesar-londero-344734233/)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:gabriellondero40@gmail.com)
 
 Thanks for visiting my profile!
 
