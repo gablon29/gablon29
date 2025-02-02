@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 ![Trello](https://img.shields.io/badge/-Trello-000?logo=trello)
 ![Slack](https://img.shields.io/badge/-Slack-000?logo=slack)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![React](<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAo9JREFUSEvNlj+vDlEQxn83USg0EjdRKOgkJP5UGsE3UJD4UyCR3EZoiFKEL0CnQkOrVEgQpQQFiY5CIeEDKBT2dzOzOXucvfvGSt57ks3uu++ceWaeeWbOrrCktbIkXDY18EXgIfA1rtvAq4qp3cCt7n9ttXsEaDe6pjI+HqB7Omc6v9CB+k7gdJyACabdS+BSI8A+kCngzLSMPh0L7rPrRJWawbhGs14E+HVQV/oW8C2wo3Pe8iHlxyLrJt3/CiwTe4FfUVNpLdds4BZldd2tZy2mVokGkU1lfAa4CTyLeprlEeB7ZKuzLcBO4Gf33/PwfhC41yjRpLjMSgVL2e/O+d3YcRL40BDNKeB8gFlb930DXnTCa2nkL2EoGmnynvRJ5eMAlnpby5WKtm9znyr2WXCfTcA92qgD7+urplqQNEqbrKm/szel8WoY3AeuBUjW1kANPANM9jLoAbD0aFD3pBl8CYoPAfuAj5WK9wOfgPedHqxvSzsm1U+90iBpqYHF+BE1E9jrXQV8OEAFNtDtjeaVjb7eJXBOpLo1ZOIOsCvYcGI9Ac6G86fAuYrqep7ro9THhuJys0FkpOKUm48G8Ju4J5U502UuWfTdYHa3aqFRtpPPXjfCebZMCicZNaM14AFwoCvLZWDbRifV1AC5Hv1p72ZAjfKtv3KofI4T6UonttNzTiepTZoS0HdmlFRbivKYzJJ4/++nk2DlEKk7YfYhMWiBgmNZsHUcp6sN7mcDjx3oKnhr1DRL0Y/DmNWzzuPyCDSx/G1NbY9sHTPM9tMu53ut/p6cKVWnUHQsiIDlHC7byQwNLA+Y+uNgUJFFgFNEJZVjLSXoInab+7t6LLtZ7xelehZIa/PSgP8AL2yYHz24nUIAAAAASUVORK5CYII="/>)
 
 ## Featured Projects
 
