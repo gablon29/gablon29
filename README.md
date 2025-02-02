@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 
 ## About Me
 
-- 🔭 I’m currently working on
-  - [📝 Aplication-server/task: with NestJs, typeScript, TypeOrm y Jwt](https://github.com/gablon29/api_task_crud_nestjs)
-  - [💸💲 Aplication-server/E-commerce: Java, SpringBoot](https://github.com/gablon29/ecommerce-springJava)
-- 🌱 I’m currently learning C# with .Net
-- 👯 I’m looking to collaborate on 👯 I’m looking to collaborate on backend development, focusing on security, scalability, and robust API design. I also enjoy working on full stack projects to keep a comprehensive approach!
-- 🤔 I’m looking for help with Advanced backend architectures, security best practices, and large-scale application optimization.
-- 💬 Ask me about Backend development with Node.js & TypeScript, database management with Sequelize & TypeORM, authentication & security, and API design.
-- 📫 How to reach me:
+- 🔭 **I’m currently working on:**
+  - [📝 *Aplication-server/task:* with NestJs, typeScript, TypeOrm y Jwt](https://github.com/gablon29/api_task_crud_nestjs)
+  - [💸 *Aplication-server/E-commerce:* Java, SpringBoot](https://github.com/gablon29/ecommerce-springJava)
+- 🌱 **I’m currently learning**: C# with .Net
+- 👯 **I’m looking to collaborate on:** backend development, focusing on security, scalability, and robust API design. I also enjoy working on full stack projects to keep a comprehensive approach!
+- 🤔 **I’m looking for help:** with Advanced backend architectures, security best practices, and large-scale application optimization.
+- 💬 **Ask me about** Backend development with Node.js & TypeScript, database management with Sequelize & TypeORM, authentication & security, and API design.
+- 📫 **How to reach me:**
   - [GitHub](https://github.com/gablon29)
   - [LinkedIn](https://www.linkedin.com/in/cesar-londero-344734233)
-- ⚡ Fun fact:
+- ⚡ **Fun fact:**
 I started programming in Pascal, but now I love working with modern tech stacks! Also, I’m passionate about system analysis and how technology improves healthcare.
 
 ## My GitHub Stats
@@ -43,7 +43,7 @@ I started programming in Pascal, but now I love working with modern tech stacks!
 
 ## Featured Projects
 
-- 🌐 [E-commerce de insumos informáticos:](https://perisferia-store.vercel.app/) Plataforma desarrollada con **React**, **Redux**, **Node.js** y **Auth0**, enfocada en una experiencia de usuario fluida y segura.  
+- 🌐 [**E-commerce de insumos informáticos:**](https://perisferia-store.vercel.app/) Plataforma desarrollada con **React**, **Redux**, **Node.js** y **Auth0**, enfocada en una experiencia de usuario fluida y segura.  
 - 📱 [**Gestión de turnos y pacientes:**](https://segimed.com/)Aplicación web que facilita la administración de historias clínicas y citas médicas, optimizando los procesos de atención al cliente.  
 - 🔧 **Soluciones personalizadas:** Desarrollo de herramientas a medida adaptadas a las necesidades específicas de diferentes sectores. 
 
