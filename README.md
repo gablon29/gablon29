@@ -23,10 +23,15 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
+![Java](https://img.shields.io/badge/-Java-000?logo=java)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Nest.Js](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
+![SpringBoot](https://img.shields.io/badge/-Spring_Boot-000?logo=springboot)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Trello](https://img.shields.io/badge/-Trello-000?logo=trello)
+![Slack](https://img.shields.io/badge/-Slack-000?logo=slack)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
 ## Featured Projects
