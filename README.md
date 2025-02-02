@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
-![Java](https://img.shields.io/badge/-Java-000?logo=java)
+![☕Java](https://img.shields.io/badge/-Java-000?logo=java)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Nest.Js](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
