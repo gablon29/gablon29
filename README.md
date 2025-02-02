@@ -44,7 +44,7 @@ I started programming in Pascal, but now I love working with modern tech stacks!
 ## Featured Projects
 
 - 🌐 [E-commerce de insumos informáticos:](https://perisferia-store.vercel.app/) Plataforma desarrollada con **React**, **Redux**, **Node.js** y **Auth0**, enfocada en una experiencia de usuario fluida y segura.  
-- 📱 **Gestión de turnos y pacientes:** Aplicación web que facilita la administración de historias clínicas y citas médicas, optimizando los procesos de atención al cliente.  
+- 📱 [**Gestión de turnos y pacientes:**](https://segimed.com/)Aplicación web que facilita la administración de historias clínicas y citas médicas, optimizando los procesos de atención al cliente.  
 - 🔧 **Soluciones personalizadas:** Desarrollo de herramientas a medida adaptadas a las necesidades específicas de diferentes sectores. 
 
 ## Connect with Me
