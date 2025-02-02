@@ -7,12 +7,15 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 - 🔭 I’m currently working on
   - [📝 Aplication-server/task: with NestJs, typeScript, TypeOrm y Jwt](https://github.com/gablon29/api_task_crud_nestjs)
   - [💸💲 Aplication-server/E-commerce: Java, SpringBoot](https://github.com/gablon29/ecommerce-springJava)
-- 🌱 I’m currently learning [Your Current Learning Focus]
-- 👯 I’m looking to collaborate on [Your Collaboration Interests]
-- 🤔 I’m looking for help with [Your Help Needs]
-- 💬 Ask me about [Your Expertise Areas]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🌱 I’m currently learning [C# with .Net]
+- 👯 I’m looking to collaborate on [👯 I’m looking to collaborate on backend development, focusing on security, scalability, and robust API design. I also enjoy working on full stack projects to keep a comprehensive approach!]
+- 🤔 I’m looking for help with Advanced backend architectures, security best practices, and large-scale application optimization.
+- 💬 Ask me about Backend development with Node.js & TypeScript, database management with Sequelize & TypeORM, authentication & security, and API design.
+- 📫 How to reach me:
+  - ![GitHub](https://github.com/gablon29)
+  - ![LinkedIn](https://www.linkedin.com/in/cesar-londero-344734233)
+- ⚡ Fun fact:
+I started programming in Pascal, but now I love working with modern tech stacks! Also, I’m passionate about system analysis and how technology improves healthcare.
 
 ## My GitHub Stats
 
@@ -25,9 +28,10 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 ![Typescript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-000?logo=openjdk)
 ![C#](https://img.shields.io/badge/-C%23-239120?&logo=CSharp&logoColor=white)
-![.Net](https://img.shields.io/badge/-.NET-512BD4?&logo=.NET&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.Js](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
 ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-000?logo=springboot)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -35,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here, 
 ![Trello](https://img.shields.io/badge/-Trello-000?logo=trello)
 ![Slack](https://img.shields.io/badge/-Slack-000?logo=slack)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
-![React](<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAo9JREFUSEvNlj+vDlEQxn83USg0EjdRKOgkJP5UGsE3UJD4UyCR3EZoiFKEL0CnQkOrVEgQpQQFiY5CIeEDKBT2dzOzOXucvfvGSt57ks3uu++ceWaeeWbOrrCktbIkXDY18EXgIfA1rtvAq4qp3cCt7n9ttXsEaDe6pjI+HqB7Omc6v9CB+k7gdJyACabdS+BSI8A+kCngzLSMPh0L7rPrRJWawbhGs14E+HVQV/oW8C2wo3Pe8iHlxyLrJt3/CiwTe4FfUVNpLdds4BZldd2tZy2mVokGkU1lfAa4CTyLeprlEeB7ZKuzLcBO4Gf33/PwfhC41yjRpLjMSgVL2e/O+d3YcRL40BDNKeB8gFlb930DXnTCa2nkL2EoGmnynvRJ5eMAlnpby5WKtm9znyr2WXCfTcA92qgD7+urplqQNEqbrKm/szel8WoY3AeuBUjW1kANPANM9jLoAbD0aFD3pBl8CYoPAfuAj5WK9wOfgPedHqxvSzsm1U+90iBpqYHF+BE1E9jrXQV8OEAFNtDtjeaVjb7eJXBOpLo1ZOIOsCvYcGI9Ac6G86fAuYrqep7ro9THhuJys0FkpOKUm48G8Ju4J5U502UuWfTdYHa3aqFRtpPPXjfCebZMCicZNaM14AFwoCvLZWDbRifV1AC5Hv1p72ZAjfKtv3KofI4T6UonttNzTiepTZoS0HdmlFRbivKYzJJ4/++nk2DlEKk7YfYhMWiBgmNZsHUcp6sN7mcDjx3oKnhr1DRL0Y/DmNWzzuPyCDSx/G1NbY9sHTPM9tMu53ut/p6cKVWnUHQsiIDlHC7byQwNLA+Y+uNgUJFFgFNEJZVjLSXoInab+7t6LLtZ7xelehZIa/PSgP8AL2yYHz24nUIAAAAASUVORK5CYII="/>)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Featured Projects
 
